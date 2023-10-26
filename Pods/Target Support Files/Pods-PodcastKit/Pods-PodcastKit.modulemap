@@ -1,0 +1,6 @@
+framework module Pods_PodcastKit {
+  umbrella header "Pods-PodcastKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
